@@ -1,0 +1,14 @@
+/home/oekenta/ronkathon/target/debug/deps/libyansi-3d59a25b1c287eb8.rmeta: /home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/lib.rs /home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/macros.rs /home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/windows.rs /home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/attr_quirk.rs /home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/style.rs /home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/color.rs /home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/paint.rs /home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/global.rs /home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/condition.rs /home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/set.rs
+
+/home/oekenta/ronkathon/target/debug/deps/yansi-3d59a25b1c287eb8.d: /home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/lib.rs /home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/macros.rs /home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/windows.rs /home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/attr_quirk.rs /home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/style.rs /home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/color.rs /home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/paint.rs /home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/global.rs /home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/condition.rs /home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/set.rs
+
+/home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/lib.rs:
+/home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/macros.rs:
+/home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/windows.rs:
+/home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/attr_quirk.rs:
+/home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/style.rs:
+/home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/color.rs:
+/home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/paint.rs:
+/home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/global.rs:
+/home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/condition.rs:
+/home/oekenta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/set.rs:
